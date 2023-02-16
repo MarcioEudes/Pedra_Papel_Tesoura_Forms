@@ -1,0 +1,11 @@
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\bin\Debug\Pedra_Papel_Tesoura_Forms.exe.config
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\bin\Debug\Pedra_Papel_Tesoura_Forms.exe
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\bin\Debug\Pedra_Papel_Tesoura_Forms.pdb
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\obj\Debug\Pedra_Papel_Tesoura_Forms.formMenu.resources
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\obj\Debug\Pedra_Papel_Tesoura_Forms.Properties.Resources.resources
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\obj\Debug\Pedra_Papel_Tesoura_Forms.csproj.GenerateResource.cache
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\obj\Debug\Pedra_Papel_Tesoura_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\obj\Debug\Pedra_Papel_Tesoura_Forms.exe
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\obj\Debug\Pedra_Papel_Tesoura_Forms.pdb
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\obj\Debug\Pedra_Papel_Tesoura_Forms.Form2.resources
+C:\Users\Márcio\source\repos\Pedra_Papel_Tesoura_Forms\Pedra_Papel_Tesoura_Forms\obj\Debug\Pedra_Papel_Tesoura_Forms.csproj.AssemblyReference.cache
